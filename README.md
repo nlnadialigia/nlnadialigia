@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nlnadialigia" alt="nlnadialigia" /> </p>
 
-- 🌱 I’m currently learning **Bootcamp LauchBase Rocketseat** and **Santander Coders Mobile 2020 from Digital House**
+- 🌱 I’m currently learning **Bootcamp GoStack by Rocketseat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nlnadialigia](https://github.com/nlnadialigia)
 
