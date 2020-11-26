@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nlnadialigia" alt="nlnadialigia" /> </p>
 
-- 🌱 I’m currently learning **Bootcamp GoStack by Rocketseat**
+- 🌱 I’m currently learning **Bootcamp GoStack by Rocketseat** and **Bootcamp FullStack by IGTI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nlnadialigia](https://github.com/nlnadialigia)
 
