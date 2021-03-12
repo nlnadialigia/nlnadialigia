@@ -7,6 +7,8 @@
 
 ⚡ Foi nessas jornadas que me descobri uma desenvolvedora back-end, voltando o meu foco para Nodejs.
 
+⚡ Atualmente estou na Jornada Ignite da Rocketseat, na trilha de Nodejs e, paralelamente estou estudando Nodejs, Typescript, TDD, Clean Architecture, Design Patterns e SOLID com o cursos do [Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango/).
+
 ---
 ## 🧑‍💻 Tecnologias
 
