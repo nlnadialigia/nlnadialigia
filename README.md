@@ -3,11 +3,13 @@
 
 <br>
 
-⚡ Nos últimos meses concluí o Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/) e o Bootcamp FullStack da [IGTI](https://www.igti.com.br/).
+⚡ Iniciei meus estudos em programação em março de 2020. Desde então fiz alguns Bootcamps voltados para desenvolvimento web em javascript, aprendendo Nodejs, React e React Native.
 
-⚡ Foi nessas jornadas que me descobri uma desenvolvedora back-end, voltando o meu foco para Nodejs.
+⚡ Foi nessas jornadas que me descobri uma desenvolvedora back-end, focando meus estudos em Nodejs.
 
-⚡ Atualmente estou na Jornada Ignite da Rocketseat, na trilha de Nodejs e, paralelamente estou estudando Nodejs, Typescript, TDD, Clean Architecture, Design Patterns e SOLID com o cursos do [Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango/).
+⚡ No entanto, novos desafios apareceram e eu estou migrando para desenvolvimento em Python. Por que? Pesquisando as empresas que eu tenho interesse em trabalhar percebi que a maioria delas tem o foco em Python.
+
+⚡ Atualmente sou estudante do Bootcamp DevPro, Turma Henrique Bastos, do curso [Python Pro](https://pythonpro.com.br/).
 
 ---
 ## 🧑‍💻 Tecnologias
@@ -22,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30"/>
 </p>
 
 
