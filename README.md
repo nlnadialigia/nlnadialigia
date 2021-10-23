@@ -1,15 +1,5 @@
-<h1 align="center">Hello World! 👋</h1>
-<h2 align="center"> Sou Nádia Ligia, contadora em transição de carreira para programação</h2>
-
-<br>
-
-⚡ Iniciei meus estudos em programação em março de 2020. Desde então fiz alguns Bootcamps voltados para desenvolvimento web em javascript, aprendendo Nodejs, React e React Native.
-
-⚡ Foi nessas jornadas que me descobri uma desenvolvedora back-end, focando meus estudos em Nodejs.
-
-⚡ No entanto, novos desafios apareceram e eu estou migrando para desenvolvimento em Python. Por que? Pesquisando as empresas que eu tenho interesse em trabalhar percebi que a maioria delas tem o foco em Python.
-
-⚡ Atualmente sou estudante do Bootcamp DevPro, Turma Henrique Bastos, do curso [Python Pro](https://pythonpro.com.br/).
+<img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="700"> | ⚡ Olá! 👋 Sou Nádia Ligia, contadora em transição de carreira para programação. <br><br> ⚡ Atuamente estou estudando Python voltado para Data Science, mas tenho conhecimento em Nodejs, React e React Native 🤓. <br><br><br> <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
+---|---
 
 ---
 ## 🧑‍💻 Tecnologias
