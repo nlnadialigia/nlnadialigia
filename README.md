@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="700"> | ⚡ Olá! 👋 Sou Nádia Ligia, contadora em transição de carreira para programação. <br><br> ⚡ Atuamente estou estudando Python voltado para Data Science, mas tenho conhecimento em Nodejs, React e React Native 🤓. <br><br><br> <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
+<img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="700"> | ⚡ Olá! 👋 Sou Nádia Ligia, contadora em transição de carreira para programação. <br><br> ⚡ Atuamente estou estudando Python, mas tenho conhecimento em Nodejs, React e React Native 🤓. <br><br><br> <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
 ---|---
 
 ---
