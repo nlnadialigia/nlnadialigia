@@ -1,18 +1,24 @@
-<img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="700"> | ⚡ Olá! 👋 Sou Nádia Ligia!<br><br>
+
+<div align=center><img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="150"> </div>
+<h1 align=center>⚡ Olá! 👋 Sou Nádia Ligia!</h1>
+
+<br>
 Depois de 20 anos como contadora decidi que era hora de recomeçar. 
 Deixei de gostar de contabilidade? NÃO<br>
 Não estava conseguindo emprego na área? NÃO<br>
 Então por que???<br>
 Porque eu queria mais, queria novos desafios!<br><br>
+
 E foi assim que eu cheguei na área de desenvolvimento. Hoje, 3 anos depois dessa decisão, sou Analista de TI Plena na Suzano S.A., Embaixadora do Space Squad e do Assemble e cada dia mais apaixonada pela área.<br><br>
+
 Apaixonada pelos desafios, apaixonada pelo trabalho, apaixonada pela comunidade incrível que essa área tem. Acho que não existe comunidade igual a de tecnologia.<br><br>
+
 Sou desenvolvedora backend em Javascript, com conhecimento em Python, principalmente para análise de dados.<br>
 Tenho ranço de CSS, minha característica mais marcante, mas isso não quer dizer que não saiba ou não faça, só quer dizer ranço mesmo.<br><br>
 
-Me considero generalista, já que gosto de conhecer o todo, mas tenho dedicado meus esforços para aperfeiçoar principalmente meus conhecimentos em backend, arquitetura em nuvem e cibersegurança. <br><br><br> 
+Me considero generalista, já que gosto de conhecer o todo, mas tenho dedicado meus esforços para aperfeiçoar principalmente meus conhecimentos em backend, arquitetura em nuvem e cibersegurança. <br><br><br>
 
 <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
----|---
 
 ---
 ## 🧑‍💻 Tecnologias
