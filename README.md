@@ -18,7 +18,7 @@ Tenho ranço de CSS, minha característica mais marcante, mas isso não quer diz
 
 Me considero generalista, já que gosto de conhecer o todo, mas tenho dedicado meus esforços para aperfeiçoar principalmente meus conhecimentos em backend, arquitetura em nuvem e cibersegurança. <br><br><br>
 
-<div align=center><img src="https://ik.imagekit.io/l7cwocexhc/readme/cita%C3%A7%C3%A3o-github_-n56RyIt1.png?updatedAt=1694119987256" width="200"></div>
+<div align=center><img src="https://ik.imagekit.io/l7cwocexhc/readme/cita%C3%A7%C3%A3o-github_-n56RyIt1.png?updatedAt=1694119987256" width="400"></div>
 
 <br>
 
