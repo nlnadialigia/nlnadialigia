@@ -18,7 +18,9 @@ Tenho ranço de CSS, minha característica mais marcante, mas isso não quer diz
 
 Me considero generalista, já que gosto de conhecer o todo, mas tenho dedicado meus esforços para aperfeiçoar principalmente meus conhecimentos em backend, arquitetura em nuvem e cibersegurança. <br><br><br>
 
+<div align=center>
 <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
+</div>
 
 ---
 ## 🧑‍💻 Tecnologias
