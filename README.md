@@ -1,22 +1,19 @@
 
 <div align=center><img src="https://ik.imagekit.io/l7cwocexhc/octa_Z7exR7bakKF.png?updatedAt=1634957243103" width="150"> </div>
-<h1 align=center>⚡ Olá! 👋 Sou Nádia Ligia!</h1>
+<h1 align=center>⚡ Hi! 👋 Nádia Ligia here!</h1>
 
 <br>
-Depois de 20 anos como contadora decidi que era hora de recomeçar. 
-Deixei de gostar de contabilidade? NÃO<br>
-Não estava conseguindo emprego na área? NÃO<br>
-Então por que???<br>
-Porque eu queria mais, queria novos desafios!<br><br>
+🎯 My superpower? Turning complex problems into elegant solutions (though CSS still tests my patience sometimes!).<br>
 
-E foi assim que eu cheguei na área de desenvolvimento. Hoje, 3 anos depois dessa decisão, sou Analista de TI Plena na Suzano S.A., Embaixadora do Space Squad e do Assemble e cada dia mais apaixonada pela área.<br><br>
+💡 Fun fact: I can break down the intricacies of tax depreciation with the same passion and precision I apply to architecting robust Node.js backend systems. How's that for a unique skill set?
 
-Apaixonada pelos desafios, apaixonada pelo trabalho, apaixonada pela comunidade incrível que essa área tem. Acho que não existe comunidade igual a de tecnologia.<br><br>
+🤝 I'm always eager to connect with fellow tech enthusiasts, whether you want to discuss the latest JavaScript framework or debate the merits of different cloud platforms. And yes, I can even help with your tax questions (though I might charge extra for that 😉).
 
-Sou desenvolvedora backend em Javascript, com conhecimento em Python, principalmente para análise de dados.<br>
-Tenho ranço de CSS, minha característica mais marcante, mas isso não quer dizer que não saiba ou não faça, só quer dizer ranço mesmo.<br><br>
+🌱 Currently exploring: The fascinating world of cloud architecture, making APIs more elegant with NestJS, and trying to make peace with CSS (it's a work in progress).
 
-Me considero generalista, já que gosto de conhecer o todo, mas tenho dedicado meus esforços para aperfeiçoar principalmente meus conhecimentos em backend, arquitetura em nuvem e cibersegurança. <br><br><br>
+✨ Remember: It's never too late to reinvent yourself. If I could switch from balance sheets to JavaScript at 40+, imagine what you could do!
+
+Let's connect and build something amazing together! 🚀
 
 <div align=center><img src="https://ik.imagekit.io/l7cwocexhc/readme/cita%C3%A7%C3%A3o-github_-n56RyIt1.png?updatedAt=1694119987256" width="400"></div>
 
